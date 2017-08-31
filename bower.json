@@ -1,0 +1,21 @@
+{
+  "name": "slides",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Vlad Shmyhlo <aion.stu@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/v-shmyhlo/angular-edu-example",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "highlight": "^9.11.0",
+    "reveal.js": "^3.5.0",
+  }
+}
